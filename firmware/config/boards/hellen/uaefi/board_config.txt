@@ -2,7 +2,7 @@
 	uint16_t[TIMING_ADJUSTMENT_SIZE] rainTimingRpmBins;;"RPM", 1, 0, 0, 65000, 0
 	float[TIMING_ADJUSTMENT_SIZE] rainTimingPpsBins;;"C", 1, 0, -100, 120, 2
 
-#define FUEL_RPM_COUNT 38
-#define FUEL_LOAD_COUNT 38
+#define FUEL_RPM_COUNT 32
+#define FUEL_LOAD_COUNT 32
 #define IGN_LOAD_COUNT 18 
 #define IGN_RPM_COUNT 18
